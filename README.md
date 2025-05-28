@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm [Your Name]!
+# 👋 Hi there, I'm MINAHIL KAMRAN !
 
 I'm a passionate developer and designer, currently exploring the world of web development and software engineering. I love building clean, functional user interfaces and solving problems with efficient code.
 
