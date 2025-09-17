@@ -4,9 +4,9 @@ I'm a passionate developer and designer, currently exploring the world of web de
 
 ## 🚀 Tech Stack & Skills
 
-- 💻 **Languages:** C, C++, JavaScript, SQL  
-- 🌐 **Web:** HTML, CSS, JavaScript  
-- ⚛️ **Currently Learning:** React  
+- 💻 **Languages:** C, C++, JavaScript, SQL , Pyhthon
+- 🌐 **Web:** HTML, CSS, JavaScript, Tailwind, ReactJs  
+- ⚛️ **Currently Learning:** NodeJs,ExpressJs,MongoDB 
 - 🧠 **Concepts Mastered:** Object-Oriented Programming (OOP), Data Structures & Algorithms (DSA), Database Management  
 - 🎨 **Design:** UI/UX Design, Figma, Canva  
 
